@@ -9,16 +9,16 @@ SSM项目实战，一个微型CRUD的图书管理系统。
 ### 一、效果图
 
 + 首页
-  ![首页](./images/1.png)
+  ![首页](https://cdn.jsdelivr.net/gh/OriginalCoder0/gallery@master/iamges/1625542202723-1.png)
 
 + 新增书籍
-  ![新增书籍](./images/2.png)
+  ![新增书籍](https://cdn.jsdelivr.net/gh/OriginalCoder0/gallery@master/iamges/1625542206712-2.png)
 
 + 修改书籍
-  ![修改书籍](./images/3.png)
+  ![修改书籍](https://cdn.jsdelivr.net/gh/OriginalCoder0/gallery@master/iamges/1625542214115-3.png)
 
 + 查询书籍
-  ![查询书籍](./images/4.png)
+  ![查询书籍](https://cdn.jsdelivr.net/gh/OriginalCoder0/gallery@master/iamges/1625542220318-4.png)
 
 ### 二、SSM介绍
 
@@ -45,7 +45,7 @@ SSM项目实战，一个微型CRUD的图书管理系统。
 + 实现原理图
 
   `Mybatis原理图`
-  ![mybatis工作原理](./images/mybatis.png)
+  ![mybatis工作原理](https://cdn.jsdelivr.net/gh/OriginalCoder0/gallery@master/iamges/1625542223068-mybatis.png)
 
   `SSM原理图`
-  ![SSM原理图](./images/SSM.png)
+  ![SSM原理图](https://cdn.jsdelivr.net/gh/OriginalCoder0/gallery@master/iamges/1625542226340-SSM.png)
