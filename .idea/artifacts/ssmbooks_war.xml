@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="ssmbooks:war">
+    <output-path>$PROJECT_DIR$/out/artifacts/ssmbooks_war</output-path>
+    <root id="root">
+      <element id="archive" name="ssmbooks.jar">
+        <element id="module-output" name="ssmbooks" />
+      </element>
+    </root>
+  </artifact>
+</component>
