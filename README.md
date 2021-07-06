@@ -9,16 +9,16 @@ SSM项目实战，一个微型CRUD的图书管理系统。
 ### 一、效果图
 
 + 首页
-  ![首页](README.assets/首页.png)
+  ![首页](./images/1.png)
 
 + 新增书籍
-  ![新增书籍](README.assets/新增书籍.png)
+  ![新增书籍](./images/2.png)
 
 + 修改书籍
-  ![修改书籍](README.assets/修改书籍.png)
+  ![修改书籍](./images/3.png)
 
 + 查询书籍
-  ![查询书籍](README.assets/查询书籍.png)
+  ![查询书籍](./images/4.png)
 
 ### 二、SSM介绍
 
@@ -45,7 +45,7 @@ SSM项目实战，一个微型CRUD的图书管理系统。
 + 实现原理图
 
   `Mybatis原理图`
-  ![mybatis工作原理](README.assets/mybatis工作原理.png)
+  ![mybatis工作原理](./images/mybatis.png)
 
   `SSM原理图`
-  ![SSM原理图](./images/SSM原理图.png)
+  ![SSM原理图](./images/SSM.png)
