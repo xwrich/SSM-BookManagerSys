@@ -9,16 +9,16 @@ SSM项目实战，一个微型CRUD的图书管理系统。
 ### 一、效果图
 
 + 首页
-  ![首页](https://cdn.jsdelivr.net/gh/OriginalCoder0/gallery@master/iamges/1625542202723-1.png)
+  ![](https://cdn.jsdelivr.net/gh/OriginalCoder0/gallery@master/images/1625841441368-1.png)
 
 + 新增书籍
-  ![新增书籍](https://cdn.jsdelivr.net/gh/OriginalCoder0/gallery@master/iamges/1625542206712-2.png)
+  ![](https://cdn.jsdelivr.net/gh/OriginalCoder0/gallery@master/images/1625841467806-2.png)
 
 + 修改书籍
-  ![修改书籍](https://cdn.jsdelivr.net/gh/OriginalCoder0/gallery@master/iamges/1625542214115-3.png)
+  ![](https://cdn.jsdelivr.net/gh/OriginalCoder0/gallery@master/images/1625841486287-3.png)
 
 + 查询书籍
-  ![查询书籍](https://cdn.jsdelivr.net/gh/OriginalCoder0/gallery@master/iamges/1625542220318-4.png)
+  ![](https://cdn.jsdelivr.net/gh/OriginalCoder0/gallery@master/images/1625841506012-4.png)
 
 ### 二、SSM介绍
 
@@ -44,8 +44,8 @@ SSM项目实战，一个微型CRUD的图书管理系统。
 
 + 实现原理图
 
-  `Mybatis原理图`
-  ![mybatis工作原理](https://cdn.jsdelivr.net/gh/OriginalCoder0/gallery@master/iamges/1625542223068-mybatis.png)
+`Mybatis原理图`
+![](https://cdn.jsdelivr.net/gh/OriginalCoder0/gallery@master/images/1625841530185-mybatis.png)
 
-  `SSM原理图`
-  ![SSM原理图](https://cdn.jsdelivr.net/gh/OriginalCoder0/gallery@master/iamges/1625542226340-SSM.png)
+`SSM原理图`
+![](https://cdn.jsdelivr.net/gh/OriginalCoder0/gallery@master/images/1625841547728-SSM.png)
